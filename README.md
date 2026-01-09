@@ -1,3 +1,3 @@
 # Harjutamine
-Versioonihalduse harjutused githubis Digioskuste arendamise classis
+Versioonihalduse harjutused githubis Digioskuste arendamise klassis
 Autor: Kristen Hallingu IKTpe25-1
